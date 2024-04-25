@@ -1,0 +1,15 @@
+.form {
+  display: flex;
+  flex-direction: column;
+
+  .button_google {
+    width: 300px;
+    background-color: white;
+    color: black;
+  }
+  .button_connexion {
+    background-color: black;
+    color: white;
+    width: 300px;
+  }
+}
